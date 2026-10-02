@@ -42,7 +42,7 @@ The countries to prioritise first, ranked by child mortality and GDP per capita 
 ## How to run
 
 ```bash
-git clone https://github.com/<your-username>/country-clustering-aid-prioritization.git
+git clone https://github.com/haticeikrakalkan/country-clustering-aid-prioritization.git
 cd country-clustering-aid-prioritization
 pip install -r requirements.txt
 jupyter notebook country_clustering.ipynb
